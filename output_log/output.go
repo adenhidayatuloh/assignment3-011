@@ -1,11 +1,12 @@
 package outputlog
 
 import (
-	"assigment3-GLNG-08-011/dto"
 	"encoding/json"
 	"fmt"
 	"net/http"
 	"time"
+
+	"github.com/adenhidayatuloh/assignment3-011/dto"
 )
 
 // func untuk melakukan http request pada go, dan akan langsung menampilkan response , status water dan status wind

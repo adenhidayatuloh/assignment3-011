@@ -1,10 +1,11 @@
 package service
 
 import (
-	"assigment3-GLNG-08-011/dto"
-	"assigment3-GLNG-08-011/entity"
-	"assigment3-GLNG-08-011/repo/database"
 	"math/rand"
+
+	"github.com/adenhidayatuloh/assignment3-011/dto"
+	"github.com/adenhidayatuloh/assignment3-011/entity"
+	"github.com/adenhidayatuloh/assignment3-011/repo/database"
 )
 
 // func pada service untuk upadate data pada database, dan akan mengembalikan response dari package dto

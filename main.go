@@ -1,9 +1,9 @@
 package main
 
 import (
-	"assigment3-GLNG-08-011/handler"
-	outputlog "assigment3-GLNG-08-011/output_log"
-	"assigment3-GLNG-08-011/repo/database"
+	"github.com/adenhidayatuloh/assignment3-011/handler"
+	outputlog "github.com/adenhidayatuloh/assignment3-011/output_log"
+	"github.com/adenhidayatuloh/assignment3-011/repo/database"
 
 	"github.com/gin-gonic/gin"
 )

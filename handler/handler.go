@@ -1,8 +1,9 @@
 package handler
 
 import (
-	"assigment3-GLNG-08-011/service"
 	"net/http"
+
+	"github.com/adenhidayatuloh/assignment3-011/service"
 
 	"github.com/gin-gonic/gin"
 )

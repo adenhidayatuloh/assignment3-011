@@ -1,4 +1,4 @@
-module assigment3-GLNG-08-011
+module github.com/adenhidayatuloh/assignment3-011
 
 go 1.21.0
 

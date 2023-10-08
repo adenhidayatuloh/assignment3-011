@@ -1,10 +1,11 @@
 package database
 
 import (
-	"assigment3-GLNG-08-011/entity"
 	"database/sql"
 	"fmt"
 	"log"
+
+	"github.com/adenhidayatuloh/assignment3-011/entity"
 
 	_ "github.com/lib/pq"
 )
